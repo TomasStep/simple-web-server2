@@ -1,0 +1,7 @@
+D:\Work\C#\simple-web-server2\simple-web-server2\bin\Debug\simple-web-server2.exe.config
+D:\Work\C#\simple-web-server2\simple-web-server2\bin\Debug\simple-web-server2.exe
+D:\Work\C#\simple-web-server2\simple-web-server2\bin\Debug\simple-web-server2.pdb
+D:\Work\C#\simple-web-server2\simple-web-server2\obj\Debug\simple-web-server2.csprojAssemblyReference.cache
+D:\Work\C#\simple-web-server2\simple-web-server2\obj\Debug\simple-web-server2.csproj.CoreCompileInputs.cache
+D:\Work\C#\simple-web-server2\simple-web-server2\obj\Debug\simple-web-server2.exe
+D:\Work\C#\simple-web-server2\simple-web-server2\obj\Debug\simple-web-server2.pdb
